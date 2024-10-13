@@ -1,14 +1,14 @@
 
 
-### INSTALLATION
+## INSTALLATION
 
-## Install all necessary package
+#### Install all necessary package
 
-# npm install or npm i 
-
-
-## to run the application
+## npm install or npm i 
 
 
-# `npm start`
+### to run the application
+
+
+## `npm start`
 
